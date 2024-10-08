@@ -2,10 +2,7 @@
 
 A full-stack E-Library Management Application where users can browse, borrow, return, and manage eBooks. The frontend is built using React, while the backend uses Node.js, Express, and MongoDB for managing book data and user authentication. The application is fully deployed, offering a seamless and user-friendly experience.
 
-## Live Demo
 
-- **Frontend**: [https://swiftrut-task-7.vercel.app](https://swiftrut-task-7.vercel.app/)
-- **Backend**: https://swiftrut-task-7.onrender.com/
 
 -- Running Frontend
 1 clone repository
@@ -57,12 +54,3 @@ A full-stack E-Library Management Application where users can browse, borrow, re
 - **JWT (JSON Web Token)**: For user authentication and authorization.
 
 ---
-
-## Installation
-
-### Prerequisites
-
-- Node.js and npm installed.
-- MongoDB database (local or cloud-based).
-- A Vercel account for frontend deployment.
-- A Render account for backend deployment.
